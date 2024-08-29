@@ -1,0 +1,42 @@
+export const topMeels=[
+    {
+        image:"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+        title:"Pizza"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg",
+        title:"Burger"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2019/04/08/18/35/sandwich-4112566_640.jpg",
+        title:"Sandwich"
+    }
+    ,
+    {
+        image:"https://cdn.pixabay.com/photo/2015/10/01/14/26/fried-rice-967081_640.jpg",
+        title:"Fried Rice"
+    }
+    ,
+    {
+        image:"https://cdn.pixabay.com/photo/2016/03/27/22/38/cake-1284548_640.jpg",
+        title:"Cake"
+    }
+    ,
+    {
+        image:"https://cdn.pixabay.com/photo/2017/08/25/15/10/egg-roll-2680478_640.jpg",
+        title:"Rolls"
+    }
+    ,
+    {
+        image:"https://media.istockphoto.com/id/452813985/photo/plate-of-fried-chicken-on-blue-plaid-towel.jpg?s=612x612&w=0&k=20&c=e_03DvZFXhvbMR5eBiflKJ2nnQnoaBnufrT37h6Wf7s=",
+        title:"Fried Chicken"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/05/27/12/35/noodles-8021415_1280.png",
+        title:"Noodles"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2019/02/11/18/48/salad-3990416_1280.jpg",
+        title:"Salad"
+    },
+]

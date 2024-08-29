@@ -1,0 +1,11 @@
+package com.anhtan.foododering.request;
+
+import com.anhtan.foododering.model.Address;
+import lombok.Data;
+
+@Data
+public class CreateOrderRequest {
+    private Long restaurantId;
+
+    private Address deliveryAddress;
+}
