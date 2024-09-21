@@ -32,7 +32,7 @@ public class PaymentServiceImp implements PaymentService {
                                 .setCurrency("usd")
                                 .setUnitAmount((long) order.getTotalAmount()*100) // Specify the order amount in cents
                                 .setProductData(SessionCreateParams.LineItem.PriceData.ProductData.builder()
-                                        .setName("pizza burger")
+                                        .setName("")
                                         .build())
                                 .build())
                         .build())
